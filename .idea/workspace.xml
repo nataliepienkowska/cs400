@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e73b0618-1710-4344-83be-71c3fe95ed5f" name="Default Changelist" comment="" />
+    <list default="true" id="e73b0618-1710-4344-83be-71c3fe95ed5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QtcwDb8QXepmGDfUrjW3j3d1xD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -56,11 +62,28 @@
       <workItem from="1568749555980" duration="27000" />
       <workItem from="1568750959021" duration="19000" />
       <workItem from="1568766943110" duration="3384000" />
-      <workItem from="1568771028319" duration="1852000" />
+      <workItem from="1568771028319" duration="2177000" />
+      <workItem from="1568774350543" duration="93000" />
+      <workItem from="1568921725941" duration="24000" />
+      <workItem from="1569684181976" duration="46000" />
+      <workItem from="1569684242701" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

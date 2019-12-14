@@ -1,0 +1,22 @@
+<form (ngSubmit)="onSubmit()">
+
+  <div class = "currencyFormGroup">
+    <p> Based on the current exchange rate, let's convert your dollar amount to Polish zlotys. </p>
+    <label for="USD to PLN"> Type your dollar amount here: </label>
+    <input #userDollar id= "USD to PLN" class="form" formControlName="dollars">
+  </div>
+
+  <button type="submit" (click) = "getData(userDollar)"> Submit </button>
+
+  <div  *ngIf= "(currencyFormGroup.get(dollars)> 0)">
+    Your {{currencyFormGroup.amountOfDollars}} in USD is equivalent to {{currencyFormGroup.amountOfDollars * getData.paras}} in Polish zlotys.
+  </div>
+
+
+<div *ngIf="currencyFormGroup.get(dollars).errors">
+
+  Error!
+
+</div>
+
+</form>
